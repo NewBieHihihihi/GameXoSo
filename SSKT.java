@@ -171,7 +171,7 @@ public class SSKT {
 		}
 		else
 		{
-			System.out.println("Bạn Đã Trúng 1 Cái Nịt!!!");
+			System.out.println("Bạn Đã Trúng Gió!!!");
 		}
 	}
 
